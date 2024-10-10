@@ -10,7 +10,7 @@ I’m looking to collaborate on any type of Java project, so feel free to reach 
 
 I am particularly interested in utilizing Spring Framework in Artificial Intelligence Information Systems along with
 
-statistical infrenece on time series data.
+statistical inference on time series data.
 
 Let’s intelligently automate everything! :)
 
